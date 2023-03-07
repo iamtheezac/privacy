@@ -1,2 +1,3 @@
 @@||tiktok.com^
 @@||https://www.tiktok.com/en/^
+@@||https://chat.openai.com/chat^
