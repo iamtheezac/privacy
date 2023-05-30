@@ -38,3 +38,4 @@
 @@||xflight.xboxlive.com^
 @@||xkms.xboxlive.com^
 @@||xsts.auth.xboxlive.com^
+@@||gameanalytics.com^
