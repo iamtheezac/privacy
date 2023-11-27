@@ -39,3 +39,4 @@
 @@||xkms.xboxlive.com^
 @@||xsts.auth.xboxlive.com^
 @@||gameanalytics.com^
+@@||connectivity-check.ubuntu.com^
