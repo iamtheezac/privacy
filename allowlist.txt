@@ -40,3 +40,6 @@
 @@||xsts.auth.xboxlive.com^
 @@||gameanalytics.com^
 @@||connectivity-check.ubuntu.com^
+@@||collector.github.com^
+@@||theztv.com^
+@@||76.183.122.204^
