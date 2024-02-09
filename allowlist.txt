@@ -42,3 +42,5 @@
 @@||connectivity-check.ubuntu.com^
 @@||collector.github.com^
 @@||theztv.com^
+@@||plutotv-d.openx.net^
+@@||pluto.tv^
