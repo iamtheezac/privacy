@@ -44,3 +44,4 @@
 @@||theztv.com^
 @@||plutotv-d.openx.net^
 @@||pluto.tv^
+@@||service-ad-impression-proxy.clusters.pluto.tv^
